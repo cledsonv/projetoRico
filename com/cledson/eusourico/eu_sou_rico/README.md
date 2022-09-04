@@ -1,6 +1,6 @@
 # eu_sou_rico
 
-A new Flutter project.
+Projeto Flutter Eu sou Rico.
 
 ## Getting Started
 

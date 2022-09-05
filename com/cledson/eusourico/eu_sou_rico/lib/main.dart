@@ -10,9 +10,8 @@ void main() {
             title: const Text('Eu Sou Rico')),
         body: const Center(
           child: Image(
-            image: NetworkImage(
-                'https://img.ifunny.co/images/e4227d4f98903493503bbae8cabb1347b41bdfbb76473b04181f54af521c2d90_1.jpg'),
-          ),
+            image: AssetImage('imagens/rubi.png'), 
+            ),
         ),
       ),
     ),
